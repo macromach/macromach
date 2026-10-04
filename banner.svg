@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title">
+<title id="title">Gokul L — Aspiring Software Developer</title>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0a1020"/><stop offset="1" stop-color="#14294c"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8ab6e8" stroke-opacity=".055"/></pattern>
+</defs>
+<rect width="1280" height="360" rx="20" fill="url(#bg)"/>
+<rect width="1280" height="360" rx="20" fill="url(#grid)"/>
+<g fill="none" stroke="#60a5fa">
+<circle cx="1110" cy="180" r="205" opacity=".09"/>
+<circle cx="1110" cy="180" r="150" opacity=".14"/>
+<circle cx="1110" cy="180" r="95" opacity=".2"/>
+<path d="M936 83l-96 97 96 97M1138 83l96 97-96 97M1106 75l-80 210" stroke-width="4" opacity=".55"/>
+</g>
+<rect x="64" y="58" width="42" height="4" rx="2" fill="#38bdf8"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<text x="120" y="65" fill="#93c5fd" font-size="14" letter-spacing="3">MACROMACH / DEVELOPER PROFILE</text>
+<text x="60" y="166" fill="#f8fafc" font-size="76" font-weight="700" letter-spacing="-2">Gokul L<tspan fill="#38bdf8">.</tspan></text>
+<text x="65" y="213" fill="#cbd5e1" font-size="24">Aspiring Software Developer</text>
+<text x="65" y="266" fill="#93c5fd" font-size="17" letter-spacing="1">BACKEND / WEB &amp; MOBILE / AI AUTOMATION</text>
+<circle cx="70" cy="311" r="4" fill="#34d399"/>
+<text x="84" y="316" fill="#94a3b8" font-size="14">MCA '27 · Open to entry-level opportunities</text>
+</g>
+</svg>
