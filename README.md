@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="./banner.svg" alt="Gokul L | Backend, Web and Mobile, AI Automation" width="100%" />
+  <img src="./glass-banner.svg" alt="Gokul L | Backend, Web and Mobile, AI Automation" width="100%" />
 </p>
 
 <h3 align="center">Turning ideas into APIs, applications, and automation.</h3>
 <p align="center">MCA Student · Aspiring Software Developer · Class of 2027</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gokull2004"><img src="https://img.shields.io/badge/LinkedIn-Let%27s_connect-2563EB?style=for-the-badge" alt="Connect on LinkedIn" /></a>
-  <a href="https://github.com/macromach?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-172033?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work" /></a>
+  <a href="https://www.linkedin.com/in/gokull2004"><img src="https://img.shields.io/badge/LinkedIn-Let%27s_connect-6D5EF6?style=for-the-badge" alt="Connect on LinkedIn" /></a>
+  <a href="https://github.com/macromach?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-161B32?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work" /></a>
 </p>
 
 ---
@@ -25,24 +25,24 @@ I'm **Gokul**, an MCA student transitioning from corporate operations into softw
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-172033?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-172033?style=for-the-badge&logo=python&logoColor=60A5FA)
-![C Sharp](https://img.shields.io/badge/C%23-172033?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-161B32?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-161B32?style=for-the-badge&logo=python&logoColor=60A5FA)
+![C Sharp](https://img.shields.io/badge/C%23-161B32?style=for-the-badge)
 
 **Backend & databases**
 
-![Node.js](https://img.shields.io/badge/Node.js-172033?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-172033?style=for-the-badge&logo=postgresql&logoColor=60A5FA)
-![Redis](https://img.shields.io/badge/Redis-172033?style=for-the-badge&logo=redis&logoColor=FF6B6B)
-![REST APIs](https://img.shields.io/badge/REST_APIs-172033?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-161B32?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B32?style=for-the-badge&logo=postgresql&logoColor=60A5FA)
+![Redis](https://img.shields.io/badge/Redis-161B32?style=for-the-badge&logo=redis&logoColor=FF6B6B)
+![REST APIs](https://img.shields.io/badge/REST_APIs-161B32?style=for-the-badge)
 
 **Web, mobile & tools**
 
-![Laravel](https://img.shields.io/badge/Laravel-172033?style=for-the-badge&logo=laravel&logoColor=FF6B6B)
-![Flutter](https://img.shields.io/badge/Flutter-172033?style=for-the-badge&logo=flutter&logoColor=54C5F8)
-![Unity](https://img.shields.io/badge/Unity-172033?style=for-the-badge&logo=unity&logoColor=white)
-![Git](https://img.shields.io/badge/Git-172033?style=for-the-badge&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/Linux-172033?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Laravel](https://img.shields.io/badge/Laravel-161B32?style=for-the-badge&logo=laravel&logoColor=FF6B6B)
+![Flutter](https://img.shields.io/badge/Flutter-161B32?style=for-the-badge&logo=flutter&logoColor=54C5F8)
+![Unity](https://img.shields.io/badge/Unity-161B32?style=for-the-badge&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-161B32?style=for-the-badge&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-161B32?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 ## Selected work
 
@@ -86,3 +86,4 @@ My corporate operations experience spans **First American**, **Trigent Software*
   Open to entry-level development opportunities.<br /><br />
   <a href="https://www.linkedin.com/in/gokull2004">Get in touch on LinkedIn ↗</a>
 </p>
+
